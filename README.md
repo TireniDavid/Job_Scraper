@@ -1,2 +1,18 @@
-# JOB-MATCHER
-Every Ten minutes, This Automated Python Script find personalized jobs for you by Matching your specific Job requirements and skills you familiar with to the newly posted Jobs on a Job Posting Website using Webscraping Technology (Beautiful Soup Library) 
+# Job Scraper
+
+This Python script scrapes job listings from TimesJobs and filters them based on user-input unfamiliar skills. The filtered job details are saved in text files.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Required libraries: BeautifulSoup, requests
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/job-scraper.git
+   cd job-scraper
